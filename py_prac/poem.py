@@ -1,0 +1,1 @@
+print("\"Looking up to the unreachable 'sky'\nI wonder why i'try'\nStill the lingering scent of 'hope'\nHanging on a tiny 'rope'\"")
